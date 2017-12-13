@@ -1,13 +1,14 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace TestRensyu
 {
     public class Program
     {
+        /// 以下をコピペ。冒頭に
+        /// 
+        /// using System;
+        /// 
+        /// が必要
         public static void Main(string[] args)
         {
             int num = int.Parse(Console.ReadLine().Trim());
